@@ -1,0 +1,51 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/62850912dde33983418a750b.6285091413d0ce8d341683f9.4b9CgkK.hcp.png");
+
+@font-face {
+  font-family: "CenturyGothic Pro-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/.39203.otf") format("opentype");
+}
+@font-face {
+  font-family: "Futura-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/futura.otf") format("opentype");
+}
+@font-face {
+  font-family: "CenturyGothic Pro-Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/.39202.otf") format("opentype");
+}
+@font-face {
+  font-family: "Futura-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/unicode.futurab.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
