@@ -1,0 +1,580 @@
+/* screen - testtemplate-05-18-22 */
+
+.testtemplate-05-18-22 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3000px;
+  overflow: hidden;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .overlap-group1 {
+  height: 908px;
+  margin-left: 0.5px;
+  margin-top: -4px;
+  position: relative;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .wsm_-pichon_-pinto_051022-82 {
+  cursor: pointer;
+  height: 900px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .group-2 {
+  background-image: url(../img/group-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 194px;
+  left: 56px;
+  position: absolute;
+  top: 25px;
+  width: 489px;
+}
+
+.testtemplate-05-18-22 .line {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 902px;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .group-4 {
+  background-image: url(../img/group-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 900px;
+  left: 0;
+  opacity: 0.62;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .di-costanzo-cabernet {
+  color: var(--everglade);
+  font-family: var(--font-family-centurygothic-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 645px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .number {
+  color: var(--everglade);
+  font-family: var(--font-family-centurygothic-regular);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 620px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .complex-and-structu {
+  color: var(--everglade);
+  font-family: var(--font-family-futurapt-medium);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 722px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .address {
+  color: #7f383e;
+  font-family: var(--font-family-centurygothic-italic);
+  font-size: var(--font-size-xxxxxl);
+  font-style: italic;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 840px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .image-1 {
+  cursor: pointer;
+  height: 448px;
+  left: 451px;
+  object-fit: cover;
+  position: absolute;
+  top: 428px;
+  width: 117px;
+}
+
+.testtemplate-05-18-22 .overlap-group {
+  height: 32px;
+  margin-top: 6px;
+  position: relative;
+  width: 166px;
+}
+
+.testtemplate-05-18-22 .rectangle {
+  background-color: var(--everglade);
+  cursor: pointer;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 166px;
+}
+
+.testtemplate-05-18-22 .buy-now {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .line-3 {
+  height: 6px;
+  margin-top: 8px;
+  object-fit: cover;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .overlap-group2 {
+  height: 908px;
+  margin-top: 2px;
+  position: relative;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .group-9 {
+  background-image: url(../img/group-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 905px;
+  left: 0;
+  opacity: 0.11;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .image-5-18-22-at-847-am {
+  cursor: pointer;
+  height: 400px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 226px;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .line-2 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 222px;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .line-6 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 623px;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .from-the-mighty-cal {
+  color: var(--everglade);
+  cursor: pointer;
+  font-family: var(--font-family-centurygothic-italic);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 14px;
+  width: 419px;
+}
+
+.testtemplate-05-18-22 .address-1 {
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-futurapt-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 184px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .the-2019-cabernet {
+  color: var(--everglade);
+  cursor: pointer;
+  font-family: var(--font-family-centurygothic-italic);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 400;
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 644px;
+  width: 419px;
+}
+
+.testtemplate-05-18-22 .address-2 {
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-futurapt-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  left: 404px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 868px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .image-2 {
+  height: 80px;
+  left: 483px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 80px;
+}
+
+.testtemplate-05-18-22 .image-3 {
+  cursor: pointer;
+  height: 22px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 752px;
+  width: 80px;
+}
+
+.testtemplate-05-18-22 .buy-now-1 {
+  cursor: pointer;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .overlap-group-1 {
+  height: 1089px;
+  margin-top: 8px;
+  position: relative;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .group-8 {
+  background-image: url(../img/group-7@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 183px;
+  left: 79px;
+  opacity: 0.11;
+  position: absolute;
+  top: 876px;
+  width: 441px;
+}
+
+.testtemplate-05-18-22 .group-6 {
+  background-image: url(../img/group-5-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1086px;
+  left: 0;
+  opacity: 0.11;
+  position: absolute;
+  top: 3px;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .line-5 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .line-7 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 248px;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .line-8 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 684px;
+  width: 600px;
+}
+
+.testtemplate-05-18-22 .rectangle-5 {
+  background-color: var(--everglade);
+  cursor: pointer;
+  height: 32px;
+  left: 48px;
+  position: absolute;
+  top: 747px;
+  width: 242px;
+}
+
+.testtemplate-05-18-22 .rectangle-7 {
+  background-color: var(--everglade);
+  cursor: pointer;
+  height: 32px;
+  left: 48px;
+  position: absolute;
+  top: 787px;
+  width: 242px;
+}
+
+.testtemplate-05-18-22 .rectangle-9 {
+  background-color: var(--everglade);
+  cursor: pointer;
+  height: 32px;
+  left: 48px;
+  position: absolute;
+  top: 827px;
+  width: 242px;
+}
+
+.testtemplate-05-18-22 .rectangle-6 {
+  background-color: var(--everglade);
+  cursor: pointer;
+  height: 32px;
+  left: 311px;
+  position: absolute;
+  top: 747px;
+  width: 242px;
+}
+
+.testtemplate-05-18-22 .rectangle-8 {
+  background-color: var(--everglade);
+  cursor: pointer;
+  height: 32px;
+  left: 311px;
+  position: absolute;
+  top: 787px;
+  width: 242px;
+}
+
+.testtemplate-05-18-22 .rectangle-10 {
+  background-color: var(--everglade);
+  cursor: pointer;
+  height: 32px;
+  left: 311px;
+  position: absolute;
+  top: 827px;
+  width: 242px;
+}
+
+.testtemplate-05-18-22 .shop-wine {
+  cursor: pointer;
+  left: 121px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 750px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .shop-gifts {
+  cursor: pointer;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 790px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .restaurants {
+  cursor: pointer;
+  left: 112px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 830px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .shop-spirits {
+  cursor: pointer;
+  left: 378px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 750px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .shop-market {
+  cursor: pointer;
+  left: 372px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 790px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .sell-your-wine {
+  cursor: pointer;
+  left: 363px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 830px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .taste-tequila {
+  cursor: pointer;
+  height: 175px;
+  left: 395px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 175px;
+}
+
+.testtemplate-05-18-22 .cheeseboard {
+  cursor: pointer;
+  height: 175px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 175px;
+}
+
+.testtemplate-05-18-22 .brunch {
+  cursor: pointer;
+  height: 175px;
+  left: 213px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 175px;
+}
+
+.testtemplate-05-18-22 .the-wallys-blog {
+  left: 190px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .wallysofficial {
+  left: 216px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 268px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .wallywinecom {
+  cursor: pointer;
+  left: 213px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 704px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .image-4 {
+  cursor: pointer;
+  height: 301px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 308px;
+  width: 300px;
+}
+
+.testtemplate-05-18-22 .tag-us-wallysoffici {
+  color: var(--everglade);
+  font-family: var(--font-family-futurapt-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 629px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .to-place-an-orderco {
+  color: var(--everglade);
+  font-family: var(--font-family-futura_pt);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 7px;
+  position: absolute;
+  text-align: center;
+  top: 875px;
+  white-space: nowrap;
+}
+
+.testtemplate-05-18-22 .span {
+  font-family: var(--font-family-futurapt-medium);
+}
+
+.testtemplate-05-18-22 .span1 {
+  font-family: var(--font-family-futurapt-bold);
+  font-weight: 700;
+}

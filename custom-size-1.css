@@ -1,0 +1,537 @@
+/* screen - custom-size-1 */
+
+.custom-size-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3000px;
+  overflow: hidden;
+  width: 600px;
+}
+
+.custom-size-1 .overlap-group2 {
+  height: 908px;
+  margin-left: 0.5px;
+  margin-top: -4px;
+  position: relative;
+  width: 600px;
+}
+
+.custom-size-1 .wsm_-pichon_-pinto_051022-82 {
+  height: 900px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 600px;
+}
+
+.custom-size-1 .group-2 {
+  background-image: url(../img/group-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 194px;
+  left: 56px;
+  position: absolute;
+  top: 25px;
+  width: 489px;
+}
+
+.custom-size-1 .line {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 902px;
+  width: 600px;
+}
+
+.custom-size-1 .group-4 {
+  background-image: url(../img/group-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 900px;
+  left: 0;
+  opacity: 0.62;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.custom-size-1 .di-costanzo-cabernet {
+  color: var(--everglade);
+  font-family: var(--font-family-centurygothic_pro-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 648px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .number {
+  color: var(--everglade);
+  font-family: var(--font-family-centurygothic_pro-regular);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 624px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .complex-and-structu {
+  color: var(--everglade);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 722px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .address {
+  color: #7f383e;
+  font-family: var(--font-family-centurygothic_pro-italic);
+  font-size: var(--font-size-xxxxxl);
+  font-style: italic;
+  font-weight: 400;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 846px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .image-1 {
+  height: 448px;
+  left: 451px;
+  object-fit: cover;
+  position: absolute;
+  top: 428px;
+  width: 117px;
+}
+
+.custom-size-1 .overlap-group {
+  align-items: center;
+  background-color: var(--everglade);
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  margin-top: 6px;
+  min-width: 166px;
+  padding: 0 39px;
+}
+
+.custom-size-1 .buy-now {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 20px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .line-3 {
+  height: 6px;
+  margin-top: 8px;
+  object-fit: cover;
+  width: 600px;
+}
+
+.custom-size-1 .overlap-group1 {
+  height: 908px;
+  margin-top: 2px;
+  position: relative;
+  width: 600px;
+}
+
+.custom-size-1 .group-9 {
+  background-image: url(../img/group-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 905px;
+  left: 0;
+  opacity: 0.11;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.custom-size-1 .image-5-18-22-at-847-am {
+  height: 400px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 226px;
+  width: 600px;
+}
+
+.custom-size-1 .line-2 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 222px;
+  width: 600px;
+}
+
+.custom-size-1 .line-6 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 623px;
+  width: 600px;
+}
+
+.custom-size-1 .from-the-mighty-cal {
+  color: var(--everglade);
+  font-family: var(--font-family-centurygothic_pro-italic);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 14px;
+  width: 419px;
+}
+
+.custom-size-1 .address-1 {
+  color: var(--black);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 184px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .the-2019-cabernet {
+  color: var(--everglade);
+  font-family: var(--font-family-centurygothic_pro-italic);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 400;
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 644px;
+  width: 419px;
+}
+
+.custom-size-1 .address-2 {
+  color: var(--black);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  left: 404px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 867px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .image-2 {
+  height: 80px;
+  left: 483px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 80px;
+}
+
+.custom-size-1 .image-3 {
+  height: 22px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 752px;
+  width: 80px;
+}
+
+.custom-size-1 .overlap-group-1 {
+  height: 1089px;
+  margin-top: 8px;
+  position: relative;
+  width: 600px;
+}
+
+.custom-size-1 .group-8 {
+  background-image: url(../img/group-7@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 183px;
+  left: 79px;
+  opacity: 0.11;
+  position: absolute;
+  top: 876px;
+  width: 441px;
+}
+
+.custom-size-1 .group-6 {
+  background-image: url(../img/group-5-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1086px;
+  left: 0;
+  opacity: 0.11;
+  position: absolute;
+  top: 3px;
+  width: 600px;
+}
+
+.custom-size-1 .line-5 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.custom-size-1 .line-7 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 248px;
+  width: 600px;
+}
+
+.custom-size-1 .line-8 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 684px;
+  width: 600px;
+}
+
+.custom-size-1 .rectangle-5 {
+  background-color: var(--everglade);
+  height: 32px;
+  left: 48px;
+  position: absolute;
+  top: 747px;
+  width: 242px;
+}
+
+.custom-size-1 .rectangle-7 {
+  background-color: var(--everglade);
+  height: 32px;
+  left: 48px;
+  position: absolute;
+  top: 787px;
+  width: 242px;
+}
+
+.custom-size-1 .rectangle-9 {
+  background-color: var(--everglade);
+  height: 32px;
+  left: 48px;
+  position: absolute;
+  top: 827px;
+  width: 242px;
+}
+
+.custom-size-1 .rectangle-6 {
+  background-color: var(--everglade);
+  height: 32px;
+  left: 311px;
+  position: absolute;
+  top: 747px;
+  width: 242px;
+}
+
+.custom-size-1 .rectangle-8 {
+  background-color: var(--everglade);
+  height: 32px;
+  left: 311px;
+  position: absolute;
+  top: 787px;
+  width: 242px;
+}
+
+.custom-size-1 .rectangle-10 {
+  background-color: var(--everglade);
+  height: 32px;
+  left: 311px;
+  position: absolute;
+  top: 827px;
+  width: 242px;
+}
+
+.custom-size-1 .shop-wine {
+  left: 121px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 753px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .shop-gifts {
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 793px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .restaurants {
+  left: 112px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 833px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .shop-spirits {
+  left: 378px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 753px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .shop-market {
+  left: 372px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 793px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .sell-your-wine {
+  left: 363px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 833px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .taste-tequila {
+  height: 175px;
+  left: 395px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 175px;
+}
+
+.custom-size-1 .cheeseboard {
+  height: 175px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 175px;
+}
+
+.custom-size-1 .brunch {
+  height: 175px;
+  left: 213px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 175px;
+}
+
+.custom-size-1 .the-wallys-blog {
+  left: 194px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .wallysofficial {
+  left: 218px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 271px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .wallywinecom {
+  left: 213px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 707px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .image-4 {
+  height: 301px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 308px;
+  width: 300px;
+}
+
+.custom-size-1 .tag-us-wallysoffici {
+  color: var(--everglade);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  left: 116px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 628px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .to-place-an-orderco {
+  color: var(--everglade);
+  font-family: var(--font-family-futura);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 114px;
+  letter-spacing: 0;
+  line-height: 7px;
+  position: absolute;
+  text-align: center;
+  top: 875px;
+  white-space: nowrap;
+}
+
+.custom-size-1 .span {
+  font-family: var(--font-family-futura-medium);
+}
+
+.custom-size-1 .span1 {
+  font-family: var(--font-family-futura-bold);
+  font-weight: 700;
+}
